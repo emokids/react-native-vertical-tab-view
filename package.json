@@ -34,7 +34,7 @@
   },
   "homepage": "https://github.com/DaKaZ/react-native-vertical-tab-view.git#readme",
   "dependencies": {
-    "react-native-tab-view": "^1.0.2"
+    "react-native-tab-view": "git+https://github.com/emokids/react-native-tab-view.git#v1.0.2-viewpager"
   },
   "devDependencies": {
     "@expo/vector-icons": "^6.3.1",
